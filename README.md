@@ -1,26 +1,24 @@
--Tests on Suspension Coils
-<img width="565" alt="Captura de Pantalla 2023-02-22 a la(s) 12 40 35" src="https://user-images.githubusercontent.com/72363865/220726492-c7392b43-5fe7-4e2f-85f0-eb256130f3ed.png">
+## T-Tests on Suspension Coils
+
+<img width="531" alt="Captura de Pantalla 2023-03-02 a la(s) 8 11 18" src="https://user-images.githubusercontent.com/72363865/222452310-9ae02cde-b61a-4694-a8d1-1b35764689ac.png">
+
+lot1: p-value:1 mean:1500
+lot2: p-value:0.6072 mean:1500.2
+lot3: p-value:0.04168 mean:1496.14
+
+We fail to reject the null hypothesis for Lot1 and Lot2 for Lot3 we do reject the null hypothesis.
 
 
 
-
-Study Design: MechaCar vs Competitio
-
-Metrics of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
-
-
-In your description, address the following questions:
+Study Design: MechaCar vs Competition
 
 What metric or metrics are you going to test?
-- vehicle_length
-- vehicle_weight
-- spoiler_angle
-- ground_clearance
-- AWD
+-Ground clearence, mpg, AWD
 
 What is the null hypothesis or alternative hypothesis?
-
+-The null hypothesis is we are not better tha the competition and the alternative hypothesis is we are better than the competition
 
 What statistical test would you use to test the hypothesis? And why?
+-The statistical test we are going to perform is the Anova test, because I'm using 3 variables
 
 What data is needed to run the statistical test?
