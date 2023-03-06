@@ -22,3 +22,6 @@ What statistical test would you use to test the hypothesis? And why?
 -The statistical test we are going to perform is the Anova test, because I'm using 3 variables
 
 What data is needed to run the statistical test?
+<img width="256" alt="Captura de Pantalla 2023-03-06 a la(s) 11 54 49" src="https://user-images.githubusercontent.com/72363865/223191557-2b881bc3-5f99-4692-89f1-48bf2b4848a0.png">
+
+
