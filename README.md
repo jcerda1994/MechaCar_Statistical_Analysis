@@ -10,7 +10,7 @@ We fail to reject the null hypothesis for Lot1 and Lot2 for Lot3 we do reject th
 
 
 
-Study Design: MechaCar vs Competition
+## Study Design: MechaCar vs Competition
 
 What metric or metrics are you going to test?
 -Ground clearence, mpg, AWD
