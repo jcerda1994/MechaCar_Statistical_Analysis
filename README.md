@@ -2,12 +2,15 @@
 ## Linear Regression to Predict MPG
 
 Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
+
 -vehicle_weight, spoiler_angle
 
 Is the slope of the linear model considered to be zero? Why or why not?
+
 -no, because the independent variables are explainig in some proporcion the dependent variable
 
 Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+
 - yes, because of the p-value associated with this model, is 5.35e-11 so our model is statistically significative.
 
 
